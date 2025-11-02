@@ -27,6 +27,10 @@ SQL-based segmentation and retention insights using sample business data.
 ### [🐍 Python predection model](projects/Car_Price_Analysis/README.md)
 Data analysis using Python, visualization and predection models
 
+### [🐍 Python financial transactions](projects/financial_insights_project/README.md)
+Python machine learning project for data transactions
+
+
 
 ---
 
